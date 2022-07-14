@@ -1,0 +1,3 @@
+GIT COMMANDS
+git init : initializes a new blank git repository.
+ls -lart : shows all hidden folders
