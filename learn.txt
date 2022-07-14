@@ -6,3 +6,4 @@ git add -A : to add all untracked files
 git status : shows the status of all the files whether they are untracked(not added to git), 		      staged(is ready to commit) or commit is done(nothing to commit)
 touch <file_name> : to create blank files
 git commit : it will first open another pane where we have to write the commiting message and 	        then it will commit 
+git commit -m "your_message" : this will directly commit and take the message mentioned 					   inside the quotation marks
